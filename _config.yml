@@ -1,0 +1,14 @@
+layout_spectrum: 0.188172
+color:
+  saturation: 0.7569899
+  lightness: 0.4807336
+  brandStrength: 1
+  brandColors:
+    - '#F0F3F5'
+    - '#414234'
+    - '#EBA782'
+    - '#8BD0BC'
+    - '#D2D82C'
+  rhythmicContrast: 0.8362284
+typography_spectrum: 0.3371745
+name: Shrein Media
