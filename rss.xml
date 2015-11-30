@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Shrein Media]]></title>
         <description><![CDATA[Shrein Media]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shrein-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 Nov 2015 19:24:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 Nov 2015 14:20:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shrein-media/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is a sample post with sample text.</p>]]></description>
+            <link>https://thegrid.ai/shrein-media/d456037a-13da-4441-b57e-75ffa38b5a7a/index.html</link>
+            <guid isPermaLink="false">d456037a-13da-4441-b57e-75ffa38b5a7a</guid>
+            <pubDate>Mon, 30 Nov 2015 14:20:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/shrein-media/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">31989903-edf6-46fb-857d-1adc365713f4</guid>
             <pubDate>Fri, 27 Nov 2015 19:23:25 GMT</pubDate>
         </item>
