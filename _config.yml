@@ -1,4 +1,4 @@
-layout_spectrum: 0.188172
+typography_spectrum: 0.3371745
 color:
   saturation: 0.7569899
   lightness: 0.4807336
@@ -10,5 +10,6 @@ color:
     - '#8BD0BC'
     - '#D2D82C'
   rhythmicContrast: 0.8362284
-typography_spectrum: 0.3371745
+layout_spectrum: 0.188172
 name: Shrein Media
+title: Get Unstuck and Launch Online
